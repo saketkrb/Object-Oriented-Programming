@@ -1,6 +1,7 @@
 # Object-Oriented-Programming
 
 
+
 ## What is Object Oriented Programming ?
 
 
@@ -54,6 +55,24 @@
 1. [What is The Rule of Three?](https://stackoverflow.com/questions/4172722/what-is-the-rule-of-three)
 
 ***
+
+
+### Important Keywords:
+
+* [static keyword](https://www.edureka.co/blog/static-keyword-in-java/#:~:text=In%20Java%2C%20static%20keyword%20is,every%20instance%20of%20a%20class.)
+* [Virtual Keyword](https://www.dotnettricks.com/learn/csharp/understanding-virtual-override-and-new-keyword-in-csharp)
+* [Abstract Keyword](https://www.tutorialspoint.com/abstract-keyword-in-Java)
+* [Final Keyword In Java](https://www.javatpoint.com/final-keyword)
+* [explicit keyword](https://www.geeksforgeeks.org/g-fact-93/)
+* [this keyword](https://www.javatpoint.com/this-keyword)
+* [new Keyword](https://www.javatpoint.com/new-keyword-in-java)
+* [const keyword](https://stackoverflow.com/questions/7428358/why-const-keyword-is-not-used-in-java)
+* [super-keyword](https://www.javatpoint.com/super-keyword)
+
+
+
+***
+
 
 ## Four Pillars of OOPS
 
@@ -116,6 +135,7 @@
 ***
 
 
+
 ### Abstraction
 
 1. [what is abstraction ?](https://www.javatpoint.com/javascript-oops-abstraction)
@@ -128,4 +148,7 @@
 
 
 ***
+
+* [Static Binding and Dynamic Binding](https://www.javatpoint.com/static-binding-and-dynamic-binding)
+* [Message Passing in Object-Oriented Programming](https://www.panonit.com/blog/overview-message-passing-object-oriented-programming)
 
